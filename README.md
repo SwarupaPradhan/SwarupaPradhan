@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Swarupa 👋
 
-<!--
-**SwarupaPradhan/SwarupaPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer and career switcher with hands-on project experience in
+React, Angular, Flutter, and Go, as well as backend development with Java and Spring Boot.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS, SCSS
+- Mobile: Flutter (Dart)
+- Backend: Java, Spring Boot, Go, Node.js (basic)
+- Tools: Git, GitHub, Vite, VS Code
+- Methods: Agile / Scrum, Clean Code, Component-based design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **React Task Tracker** – React + TypeScript task management app  
+  👉 https://github.com/SwarupaPradhan/react-task-tracker
+
+- **Angular E-commerce App** – Product catalog, cart, checkout  
+- **Flutter Mobile App** – Cross-platform UI development  
+- **Go Backend Project** – Backend fundamentals and API logic
+
+## 📫 Contact
+- GitHub: https://github.com/SwarupaPradhan
+- Email: pradhanswarupa21@gmail.com
+- LinkedIn: (add link)
