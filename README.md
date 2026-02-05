@@ -15,22 +15,23 @@ I’m passionate about learning new technologies, creating clean code, and solvi
 React Task Tracker
 Tech: React, TypeScript
 A simple and efficient task management app where you can add, edit, delete, and track tasks.
-View Repo
-
-Angular E-commerce
-Tech: Angular, TypeScript
-A component-based e-commerce application built with Angular. Features product listing, cart management, and responsive design.
-View Repo
-
-Time Tracker App
-Tech: React, TypeScript
-Track your tasks and time effortlessly with this app. Start/stop timers per task and monitor productivity.
-View Repo
+[https://github.com/SwarupaPradhan/react-task-tracker]
 
 Flutter Weather App
 Tech: Flutter, Dart
 Get real-time weather updates with a sleek, mobile-friendly Flutter app. Displays current weather, forecast, and location-based info.
-View Repo
+[https://github.com/SwarupaPradhan/flutter-weather-app]
+
+Angular E-commerce
+Tech: Angular, TypeScript
+A component-based e-commerce application built with Angular. Features product listing, cart management, and responsive design.
+[https://github.com/SwarupaPradhan/angular-ecommerce]
+
+Time Tracker App
+Tech: React, TypeScript
+Track your tasks and time effortlessly with this app. Start/stop timers per task and monitor productivity.
+[https://github.com/SwarupaPradhan/time-tracker-app]
+
 
 📫 Connect with me
 - GitHub: https://github.com/SwarupaPradhan
