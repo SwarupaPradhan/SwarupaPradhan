@@ -21,4 +21,4 @@ React, Angular, Flutter, and Go, as well as backend development with Java and Sp
 ## 📫 Contact
 - GitHub: https://github.com/SwarupaPradhan
 - Email: pradhanswarupa21@gmail.com
-- LinkedIn: (add link)
+- LinkedIn:https://www.linkedin.com/in/swarupapradhan8
