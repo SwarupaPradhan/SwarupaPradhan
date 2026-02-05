@@ -11,12 +11,21 @@ React, Angular, Flutter, and Go, as well as backend development with Java and Sp
 - Methods: Agile / Scrum, Clean Code, Component-based design
 
 ## 📌 Featured Projects
-- **React Task Tracker** – React + TypeScript task management app  
-  👉 https://github.com/SwarupaPradhan/react-task-tracker
+React Task Tracker
+Tech: React, TypeScript
+A simple and efficient task management app where you can add, edit, delete, and track tasks. Perfect for learning React and TypeScript.
 
-- **Angular E-commerce App** – Product catalog, cart, checkout  
-- **Flutter Mobile App** – Cross-platform UI development  
-- **Go Backend Project** – Backend fundamentals and API logic
+Angular E-commerce
+Tech: Angular, TypeScript
+A component-based e-commerce application built with Angular. Features product listing, cart management, and responsive design.
+
+Time Tracker App
+Tech: React, TypeScript
+Track your tasks and time effortlessly with this React & TypeScript app. Start/stop timers per task and monitor productivity.
+
+Flutter Weather App
+Tech: Flutter, Dart
+Get real-time weather updates with a sleek, mobile-friendly Flutter app. Displays current weather, forecast, and location-based info.
 
 ## 📫 Contact
 - GitHub: https://github.com/SwarupaPradhan
